@@ -1,16 +1,16 @@
-### Hi there 👋
+![](/banner.png)
 
-<!--
-**MerouaneBellaha/MerouaneBellaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm currently using:  
+• MVC, OOP  
+• Communication patterns: Protocol Delegate, NotificationCenter, Completion Handler  
+• Generic networking, Result type, JSON  
+• Data Persistance: Generic CoreData, UserDefaults   
+• Apis: translate.googleapis.com, coinapi.io, api.openweathermap.org, api.themoviedb.org, fixer.io  
+• Unit test  
+## What are my next focus point:  
+• MVVM  
+• TDD  
+• Alamofire, Realm  
+• UICollectionView   
+• SwiftUI   
+• Animation  
