@@ -1,5 +1,6 @@
 ![](/banner.png)
 
+<!--
 ## I'm currently using:  
 • MVC, OOP  
 • Communication patterns: Protocol Delegate, NotificationCenter, Completion Handler  
@@ -14,3 +15,4 @@
 • UICollectionView   
 • SwiftUI   
 • Animation  
+-->
