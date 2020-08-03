@@ -1,4 +1,4 @@
-![](/banner.jpg)
+![](/banner.png)
 
 <!--
 ## I'm currently using:  
