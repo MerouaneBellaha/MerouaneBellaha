@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MerouaneBellaha/MerouaneBellaha/blob/master/banner.png" />
+<img src="https://github.com/MerouaneBellaha/MerouaneBellaha/blob/master/Rectangle 1.png" />
 
 <!--
 ## I'm currently using:  
